@@ -1,0 +1,31 @@
+body
+{
+	text-align: center;
+	font-size: 30px;
+	background-image: url(book-25.jpg);
+	color: black;
+}
+
+button
+{
+	font-size: large;
+	background-color: skyblue;
+	border-radius: 0.4em;
+}
+
+#book_empty
+{
+	font-weight: bold;
+}
+
+input
+{
+	font-size: 15px;
+}
+
+ul 
+{
+	color: rgb(11, 63, 43);
+	font-size: x-large;
+    display: inline-block;
+}
